@@ -1,4 +1,4 @@
-# SmartifyOS App (Flutter)
+# SmartifyOS Companion App
 
 >[!CAUTION]
 >**Disclaimer:** This software is currently in the development phase and is intended for developers. It is not suitable for general use in vehicles yet.
@@ -27,15 +27,15 @@ First have a look at the **[Contribution guidelines for this project](CONTRIBUTI
 1. Go to the repository’s GitHub page and click the “Fork” button to create a copy of the repository in your own GitHub account.
 2. Clone your new repo
    ```
-   git clone https://github.com/your-username/SmartifyOS-App.git
+   git clone https://github.com/your-username/SmartifyOS-companion-app.git
    ```
 1. Cd into its directory
    ```
-   cd SmartifyOS-App
+   cd SmartifyOS-companion-app
    ```
 2. Add the Main Repository as a Remote
    ```
-   git remote add upstream https://github.com/Mauznemo/SmartifyOS-App.git
+   git remote add upstream https://github.com/Mauznemo/SmartifyOS-companion-app.git
    ```
 2. Open the directory in [Android Studio](https://developer.android.com/studio)
 
